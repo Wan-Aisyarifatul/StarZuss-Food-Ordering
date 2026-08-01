@@ -31,4 +31,4 @@ Group coursework project — website module (login, cart, checkout, admin panel)
 > **Security note:** `config.php` database credentials are placeholder/local dev defaults (`root`, empty password). Replace with your own values before deploying — never commit real credentials.
 
 ## Author
-Wan Aisyarifatul Nor Binti Wan Aziz — Website Module Lead
+Wan Aisyarifatul Nor Binti Wan Aziz
